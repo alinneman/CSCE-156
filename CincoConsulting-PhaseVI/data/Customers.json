@@ -1,0 +1,261 @@
+{
+  "customerCode": "C007",
+  "type": "C",
+  "primaryContact": {
+    "personCode": "aqwqj",
+    "lastName": "Tettersell",
+    "firstName": "Margaretta",
+    "personAddress": {
+      "street": "5455 Clemons Plaza",
+      "city": "Indianapolis",
+      "state": "Indiana",
+      "zip": "46221",
+      "country": "United States"
+    }
+  },
+  "customerName": "Alvis and Sons",
+  "customerAddress": {
+    "street": "230 Melody Street",
+    "city": "Appleton",
+    "state": "Wisconsin",
+    "zip": "54915",
+    "country": "United States"
+  }
+}
+{
+  "customerCode": "C0010",
+  "type": "C",
+  "primaryContact": {
+    "personCode": "h7a9p6",
+    "lastName": "Ridpath",
+    "firstName": "Arlyne",
+    "personAddress": {
+      "street": "98077 3rd Road",
+      "city": "Saint Louis",
+      "state": "Missouri",
+      "zip": "63131",
+      "country": "United States"
+    },
+    "email": [
+      "aridpath2@digg.com"
+    ]
+  },
+  "customerName": "Diamant Corp.",
+  "customerAddress": {
+    "street": "546 Pearson Place",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "zip": "20525",
+    "country": "United States"
+  }
+}
+{
+  "customerCode": "C006",
+  "type": "G",
+  "primaryContact": {
+    "personCode": "ar2r",
+    "lastName": "Devon",
+    "firstName": "Andrej",
+    "personAddress": {
+      "street": "40 Lerdahl Avenue",
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": "28815",
+      "country": "United States"
+    },
+    "email": [
+      "adevon8@naver.com"
+    ]
+  },
+  "customerName": "Ebony",
+  "customerAddress": {
+    "street": "60 Logan Crossing",
+    "city": "Fort Pierce",
+    "state": "Florida",
+    "zip": "34981",
+    "country": "United States"
+  }
+}
+{
+  "customerCode": "C001",
+  "type": "C",
+  "primaryContact": {
+    "personCode": "mengk",
+    "lastName": "Highnam",
+    "firstName": "Ansell",
+    "personAddress": {
+      "street": "4320 Green Ridge Court",
+      "city": "Canton",
+      "state": "Ohio",
+      "zip": "44720",
+      "country": "United States"
+    },
+    "email": [
+      "ahighnam3@opera.com"
+    ]
+  },
+  "customerName": "Generic Company",
+  "customerAddress": {
+    "street": "49420 Center Circle",
+    "city": "Flushing",
+    "state": "New York",
+    "zip": "11388",
+    "country": "United States"
+  }
+}
+{
+  "customerCode": "C009",
+  "type": "C",
+  "primaryContact": {
+    "personCode": "gnc7tm",
+    "lastName": "Notman",
+    "firstName": "Cindie",
+    "personAddress": {
+      "street": "7 Muir Trail",
+      "city": "Flushing",
+      "state": "New York",
+      "zip": "11388",
+      "country": "United States"
+    },
+    "email": [
+      "cnotmanc@posterous.com"
+    ]
+  },
+  "customerName": "Haggerty",
+  "customerAddress": {
+    "street": "007 Browning Alley",
+    "city": "Chicago",
+    "state": "Illinois",
+    "zip": "60652",
+    "country": "United States"
+  }
+}
+{
+  "customerCode": "C003",
+  "type": "G",
+  "primaryContact": {
+    "personCode": "31nn",
+    "lastName": "Schimpke",
+    "firstName": "Charmine",
+    "personAddress": {
+      "street": "198 Rockefeller Center",
+      "city": "Indianapolis",
+      "state": "Indiana",
+      "zip": "46221",
+      "country": "United States"
+    }
+  },
+  "customerName": "Halimedas",
+  "customerAddress": {
+    "street": "6684 Paget Crossing",
+    "city": "Canton",
+    "state": "Ohio",
+    "zip": "44720",
+    "country": "United States"
+  }
+}
+{
+  "customerCode": "C002",
+  "type": "G",
+  "primaryContact": {
+    "personCode": "fh1R",
+    "lastName": "Seignior",
+    "firstName": "Dennis",
+    "personAddress": {
+      "street": "7105 Grim Pass",
+      "city": "Amarillo",
+      "state": "Texas",
+      "zip": "79171",
+      "country": "United States"
+    }
+  },
+  "customerName": "Humphrey",
+  "customerAddress": {
+    "street": "000 Arrowood Trail",
+    "city": "Saint Louis",
+    "state": "Missouri",
+    "zip": "63131",
+    "country": "United States"
+  }
+}
+{
+  "customerCode": "C008",
+  "type": "C",
+  "primaryContact": {
+    "personCode": "obnd",
+    "lastName": "Geffe",
+    "firstName": "Jaynell",
+    "personAddress": {
+      "street": "792 Dayton Avenue",
+      "city": "Houston",
+      "state": "Texas",
+      "zip": "77201",
+      "country": "United States"
+    },
+    "email": [
+      "jgeffe4@washingtonpost.com"
+    ]
+  },
+  "customerName": "Millson Firm",
+  "customerAddress": {
+    "street": "59 Golf View Court",
+    "city": "Asheville",
+    "state": "North Carolina",
+    "zip": "28815",
+    "country": "United States"
+  }
+}
+{
+  "customerCode": "C004",
+  "type": "G",
+  "primaryContact": {
+    "personCode": "d1w2i",
+    "lastName": "Mordin",
+    "firstName": "Rosita",
+    "personAddress": {
+      "street": "885 Debs Way",
+      "city": "Appleton",
+      "state": "Wisconsin",
+      "zip": "54915",
+      "country": "United States"
+    },
+    "email": [
+      "rmordin7@acquirethisname.com"
+    ]
+  },
+  "customerName": "Odos",
+  "customerAddress": {
+    "street": "4 Beilfuss Park",
+    "city": "Houston",
+    "state": "Texas",
+    "zip": "77201",
+    "country": "United States"
+  }
+}
+{
+  "customerCode": "C005",
+  "type": "C",
+  "primaryContact": {
+    "personCode": "vu29h",
+    "lastName": "Baroche",
+    "firstName": "Dex",
+    "personAddress": {
+      "street": "524 Barby Center",
+      "city": "Lansing",
+      "state": "Michigan",
+      "zip": "48912",
+      "country": "United States"
+    },
+    "email": [
+      "dbarocheg@vk.com"
+    ]
+  },
+  "customerName": "Vittorio Incorporated",
+  "customerAddress": {
+    "street": "105 Annamark Road",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "zip": "46221",
+    "country": "United States"
+  }
+}

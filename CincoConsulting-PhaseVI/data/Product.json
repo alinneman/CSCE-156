@@ -1,0 +1,133 @@
+{
+  "pricePerUnit": 827.68,
+  "productCode": "D7Ly",
+  "productType": "E",
+  "productName": "Meedoo"
+}
+{
+  "pricePerUnit": 680.27,
+  "productCode": "Re23",
+  "productType": "E",
+  "productName": "Feedmix"
+}
+{
+  "pricePerUnit": 28.86,
+  "productCode": "SyJ0",
+  "productType": "E",
+  "productName": "Ooba"
+}
+{
+  "pricePerUnit": 534.66,
+  "productCode": "Zz97",
+  "productType": "E",
+  "productName": "Skimia"
+}
+{
+  "serviceFee": 524.04,
+  "annualLicenseFee": 9848.79,
+  "productCode": "KyHm",
+  "productType": "L",
+  "productName": "Swaniawski"
+}
+{
+  "serviceFee": 171.44,
+  "annualLicenseFee": 7664.82,
+  "productCode": "4gQu",
+  "productType": "L",
+  "productName": "Dibbert"
+}
+{
+  "serviceFee": 92.34,
+  "annualLicenseFee": 5205.29,
+  "productCode": "AbE3",
+  "productType": "L",
+  "productName": "Rempel-Aufderhar"
+}
+{
+  "serviceFee": 991.43,
+  "annualLicenseFee": 1095.66,
+  "productCode": "5dEj",
+  "productType": "L",
+  "productName": "Kunze"
+}
+{
+  "serviceFee": 508.56,
+  "annualLicenseFee": 4698.97,
+  "productCode": "7cRc",
+  "productType": "L",
+  "productName": "Parker and Sons"
+}
+{
+  "serviceFee": 968.18,
+  "annualLicenseFee": 103.94,
+  "productCode": "OrOp",
+  "productType": "L",
+  "productName": "Tillman"
+}
+{
+  "serviceFee": 56.57,
+  "annualLicenseFee": 9821.61,
+  "productCode": "7sMo",
+  "productType": "L",
+  "productName": "Bergnaum"
+}
+{
+  "hourlyFee": 9790.86,
+  "consultant": {
+    "personCode": "A6Fr",
+    "lastName": "McLaren",
+    "firstName": "Marcellus",
+    "personAddress": {
+      "street": "23 Haas Parkway",
+      "city": "Chicago",
+      "state": "Illinois",
+      "zip": "60652",
+      "country": "United States"
+    },
+    "email": [
+      "mmclaren9@blogs.com"
+    ]
+  },
+  "productCode": "YgMl",
+  "productType": "C",
+  "productName": "Daugherty Group"
+}
+{
+  "hourlyFee": 3316.17,
+  "consultant": {
+    "personCode": "h7a9p6",
+    "lastName": "Ridpath",
+    "firstName": "Arlyne",
+    "personAddress": {
+      "street": "98077 3rd Road",
+      "city": "Saint Louis",
+      "state": "Missouri",
+      "zip": "63131",
+      "country": "United States"
+    },
+    "email": [
+      "aridpath2@digg.com"
+    ]
+  },
+  "productCode": "Am70",
+  "productType": "C",
+  "productName": "Feil"
+}
+{
+  "hourlyFee": 2956.13,
+  "consultant": {
+    "personCode": "31nn",
+    "lastName": "Schimpke",
+    "firstName": "Charmine",
+    "personAddress": {
+      "street": "198 Rockefeller Center",
+      "city": "Indianapolis",
+      "state": "Indiana",
+      "zip": "46221",
+      "country": "United States"
+    }
+  },
+  "productCode": "F7Iu",
+  "productType": "C",
+  "productName": "Hessel"
+}

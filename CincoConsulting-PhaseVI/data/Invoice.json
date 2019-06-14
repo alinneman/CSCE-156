@@ -1,0 +1,333 @@
+{
+  "invoiceCode": "INV007",
+  "customer": {
+    "customerCode": "C006",
+    "type": "G",
+    "primaryContact": {
+      "personCode": "ar2r",
+      "lastName": "Devon",
+      "firstName": "Andrej",
+      "personAddress": {
+        "street": "40 Lerdahl Avenue",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "28815",
+        "country": "United States"
+      },
+      "email": [
+        "adevon8@naver.com"
+      ]
+    },
+    "customerName": "Ebony",
+    "customerAddress": {
+      "street": "60 Logan Crossing",
+      "city": "Fort Pierce",
+      "state": "Florida",
+      "zip": "34981",
+      "country": "United States"
+    }
+  },
+  "salesperson": {
+    "personCode": "DyW2",
+    "lastName": "Halls",
+    "firstName": "Homerus",
+    "personAddress": {
+      "street": "48 Badeau Drive",
+      "city": "Flushing",
+      "state": "New York",
+      "zip": "11388",
+      "country": "United States"
+    },
+    "email": [
+      "hhalls1@google.com.br"
+    ]
+  },
+  "productMap": {
+    "com.cinco.ProductLicense@10a035a0": 365.0,
+    "com.cinco.ProductEquipment@50d0686": 21.0
+  }
+}
+{
+  "invoiceCode": "INV008",
+  "customer": {
+    "customerCode": "C003",
+    "type": "G",
+    "primaryContact": {
+      "personCode": "31nn",
+      "lastName": "Schimpke",
+      "firstName": "Charmine",
+      "personAddress": {
+        "street": "198 Rockefeller Center",
+        "city": "Indianapolis",
+        "state": "Indiana",
+        "zip": "46221",
+        "country": "United States"
+      }
+    },
+    "customerName": "Halimedas",
+    "customerAddress": {
+      "street": "6684 Paget Crossing",
+      "city": "Canton",
+      "state": "Ohio",
+      "zip": "44720",
+      "country": "United States"
+    }
+  },
+  "salesperson": {
+    "personCode": "CkP8",
+    "lastName": "Swalough",
+    "firstName": "Maxi",
+    "personAddress": {
+      "street": "2 Claremont Road",
+      "city": "Fort Pierce",
+      "state": "Florida",
+      "zip": "34981",
+      "country": "United States"
+    },
+    "email": [
+      "mswalough6@1688.com"
+    ]
+  },
+  "productMap": {
+    "com.cinco.ProductEquipment@4d1b0d2a": 12.0,
+    "com.cinco.ProductConsultation@5c072e3f": 10.0,
+    "com.cinco.ProductEquipment@47db50c5": 13.0
+  }
+}
+{
+  "invoiceCode": "INV009",
+  "customer": {
+    "customerCode": "C004",
+    "type": "G",
+    "primaryContact": {
+      "personCode": "d1w2i",
+      "lastName": "Mordin",
+      "firstName": "Rosita",
+      "personAddress": {
+        "street": "885 Debs Way",
+        "city": "Appleton",
+        "state": "Wisconsin",
+        "zip": "54915",
+        "country": "United States"
+      },
+      "email": [
+        "rmordin7@acquirethisname.com"
+      ]
+    },
+    "customerName": "Odos",
+    "customerAddress": {
+      "street": "4 Beilfuss Park",
+      "city": "Houston",
+      "state": "Texas",
+      "zip": "77201",
+      "country": "United States"
+    }
+  },
+  "salesperson": {
+    "personCode": "A6Fr",
+    "lastName": "McLaren",
+    "firstName": "Marcellus",
+    "personAddress": {
+      "street": "23 Haas Parkway",
+      "city": "Chicago",
+      "state": "Illinois",
+      "zip": "60652",
+      "country": "United States"
+    },
+    "email": [
+      "mmclaren9@blogs.com"
+    ]
+  },
+  "productMap": {
+    "com.cinco.ProductEquipment@954b04f": 8.0,
+    "com.cinco.ProductLicense@149494d8": 3637.0
+  }
+}
+{
+  "invoiceCode": "INV010",
+  "customer": {
+    "customerCode": "C001",
+    "type": "C",
+    "primaryContact": {
+      "personCode": "mengk",
+      "lastName": "Highnam",
+      "firstName": "Ansell",
+      "personAddress": {
+        "street": "4320 Green Ridge Court",
+        "city": "Canton",
+        "state": "Ohio",
+        "zip": "44720",
+        "country": "United States"
+      },
+      "email": [
+        "ahighnam3@opera.com"
+      ]
+    },
+    "customerName": "Generic Company",
+    "customerAddress": {
+      "street": "49420 Center Circle",
+      "city": "Flushing",
+      "state": "New York",
+      "zip": "11388",
+      "country": "United States"
+    }
+  },
+  "salesperson": {
+    "personCode": "1mGf",
+    "lastName": "Fried",
+    "firstName": "Clifford",
+    "personAddress": {
+      "street": "302 Eggendart Place",
+      "city": "Amarillo",
+      "state": "Texas",
+      "zip": "79171",
+      "country": "United States"
+    }
+  },
+  "productMap": {
+    "com.cinco.ProductEquipment@710726a3": 117.0,
+    "com.cinco.ProductLicense@646007f4": 2333.0,
+    "com.cinco.ProductLicense@481a15ff": 995.0
+  }
+}
+{
+  "invoiceCode": "INV011",
+  "customer": {
+    "customerCode": "C004",
+    "type": "G",
+    "primaryContact": {
+      "personCode": "d1w2i",
+      "lastName": "Mordin",
+      "firstName": "Rosita",
+      "personAddress": {
+        "street": "885 Debs Way",
+        "city": "Appleton",
+        "state": "Wisconsin",
+        "zip": "54915",
+        "country": "United States"
+      },
+      "email": [
+        "rmordin7@acquirethisname.com"
+      ]
+    },
+    "customerName": "Odos",
+    "customerAddress": {
+      "street": "4 Beilfuss Park",
+      "city": "Houston",
+      "state": "Texas",
+      "zip": "77201",
+      "country": "United States"
+    }
+  },
+  "salesperson": {
+    "personCode": "R27y",
+    "lastName": "Walliker",
+    "firstName": "Brok",
+    "personAddress": {
+      "street": "81 Harper Drive",
+      "city": "Lansing",
+      "state": "Michigan",
+      "zip": "48912",
+      "country": "United States"
+    },
+    "email": [
+      "bwallikerb@senate.gov"
+    ]
+  },
+  "productMap": {
+    "com.cinco.ProductLicense@78186a70": 715.0
+  }
+}
+{
+  "invoiceCode": "INV012",
+  "customer": {
+    "customerCode": "C001",
+    "type": "C",
+    "primaryContact": {
+      "personCode": "mengk",
+      "lastName": "Highnam",
+      "firstName": "Ansell",
+      "personAddress": {
+        "street": "4320 Green Ridge Court",
+        "city": "Canton",
+        "state": "Ohio",
+        "zip": "44720",
+        "country": "United States"
+      },
+      "email": [
+        "ahighnam3@opera.com"
+      ]
+    },
+    "customerName": "Generic Company",
+    "customerAddress": {
+      "street": "49420 Center Circle",
+      "city": "Flushing",
+      "state": "New York",
+      "zip": "11388",
+      "country": "United States"
+    }
+  },
+  "salesperson": {
+    "personCode": "I57j",
+    "lastName": "Luxmoore",
+    "firstName": "Leda",
+    "personAddress": {
+      "street": "4588 Cherokee Park",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "zip": "20525",
+      "country": "United States"
+    },
+    "email": [
+      "lluxmoored@gov.uk"
+    ]
+  },
+  "productMap": {
+    "com.cinco.ProductLicense@548ad73b": 780.0,
+    "com.cinco.ProductConsultation@306279ee": 24.0
+  }
+}
+{
+  "invoiceCode": "INV013",
+  "customer": {
+    "customerCode": "C003",
+    "type": "G",
+    "primaryContact": {
+      "personCode": "31nn",
+      "lastName": "Schimpke",
+      "firstName": "Charmine",
+      "personAddress": {
+        "street": "198 Rockefeller Center",
+        "city": "Indianapolis",
+        "state": "Indiana",
+        "zip": "46221",
+        "country": "United States"
+      }
+    },
+    "customerName": "Halimedas",
+    "customerAddress": {
+      "street": "6684 Paget Crossing",
+      "city": "Canton",
+      "state": "Ohio",
+      "zip": "44720",
+      "country": "United States"
+    }
+  },
+  "salesperson": {
+    "personCode": "HrFm",
+    "lastName": "Grant",
+    "firstName": "Jock",
+    "personAddress": {
+      "street": "958 Homewood Lane",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "zip": "20525",
+      "country": "United States"
+    }
+  },
+  "productMap": {
+    "com.cinco.ProductConsultation@4c762604": 34.0,
+    "com.cinco.ProductConsultation@2641e737": 17.0,
+    "com.cinco.ProductEquipment@727803de": 19.0
+  }
+}
